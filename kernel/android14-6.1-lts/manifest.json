@@ -26,7 +26,8 @@
   "susfs_sukisu": {
     "good": "8199bb6534174117ad907f726231484872ac345a",
     "bad": [
-      "8eade9cd4aed3efddc9ff30b2e48d2d9667ad77d"
+      "8eade9cd4aed3efddc9ff30b2e48d2d9667ad77d",
+      "f76b81f2a6bf98e4029cc0c823c054edbec29803"
     ]
   },
   "ksunext": {
