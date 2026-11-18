@@ -19,7 +19,9 @@
   },
   "sukisu_builtin": {
     "good": "b1d534bc41941b2c818d7a1a1dac341e4aabfc2d",
-    "bad": []
+    "bad": [
+      "4bec532dd447e2852aa8932afa768255350c103a"
+    ]
   },
   "susfs_sukisu": {
     "good": "8199bb6534174117ad907f726231484872ac345a",
